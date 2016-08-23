@@ -1,0 +1,6 @@
+Discription:
+Number of Attributes:16+target
+numInstance of bank-full.train :36086
+numInstance of bank-full.train:9125
+MissingValues:NO
+Task:classify
